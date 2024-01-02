@@ -1,4 +1,4 @@
--- Vhdl test bench created from schematic /home/ise/Lab1_group3/weliveweLOVEwelie.sch - Mon Sep 25 14:16:55 2023
+-- Vhdl test bench created from schematic
 --
 -- Notes: 
 -- 1) This testbench template has been automatically generated using types
